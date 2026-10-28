@@ -1,0 +1,4 @@
+.env
+.transcripts/
+*.exe
+/s0*
